@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Adds day of the week to Codeforces contest times",
   "author": "ChrisThaBot",
-  "homepage_url": "https://yourwebsite.com",
+  "homepage_url": "https://github.com/christhabot/Codeforces-Day-Tag",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
