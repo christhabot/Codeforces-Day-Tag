@@ -32,8 +32,8 @@ The script scans all text nodes for dates, converts them into JavaScript `Date` 
 
 ## Experienced issues or want to suggest a change?
 
-Open an [issue](https://github.com/christhabot/print-serial/issues) explaining your problem or suggestion in detail!
+Open an [issue](https://github.com/christhabot/Codeforces-Day-Tag/issues) explaining your problem or suggestion in detail!
 
 ## Want to contribute?
 
-Open a [pull request](https://github.com/christhabot/print-serial/pulls)! You will become a contributor in this project, and help it evolve!
+Open a [pull request](https://github.com/christhabot/Codeforces-Day-Tag/pulls)! You will become a contributor in this project, and help it evolve!
